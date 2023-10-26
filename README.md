@@ -1,3 +1,3 @@
 # WPF
 WPF Tutorials
-Folloing this tutoril to complete a project at work
+Folloing this tutorial to complete a project at work. Link to main course https://app.pluralsight.com/library/courses/c-sharp-10-building-real-world-application
